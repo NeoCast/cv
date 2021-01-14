@@ -1,0 +1,13 @@
+body{
+    background-color: gainsboro;
+}
+hr{
+    border-style: dotted none none none;
+    border-width: 0.4rem;
+    width: 30%;
+    
+}
+
+h1{
+    color: cornflowerblue;
+}
